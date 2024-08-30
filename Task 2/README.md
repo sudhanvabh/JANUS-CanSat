@@ -1,2 +1,2 @@
-Open "Tinkercad Link.url"
-Run the simulation
+- Open "Tinkercad Link.url"
+- Run the simulation
